@@ -26,7 +26,7 @@ Write your own printf function.
 
 Read or watch:
 
-Secrets of printf
+Secrets of printf: https://www.academia.edu/10297206/Secrets_of_printf_
 
 Group Projects concept page (Don’t forget to read this)
 
